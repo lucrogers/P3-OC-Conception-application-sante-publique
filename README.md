@@ -18,7 +18,7 @@ Notre idée d'application se base sur le régime cétogène qui nécessite de li
 - Réduction du nombre de dimensions: Analyse en Composantes Principales
 - Clustering (K-Means)
 - Preuve de concept de l'application. Exemple:
-![alt text](https://github.com/lucrogers/P3-OC-Conception-application-sante-publique/exemple.png?raw=true)
+![alt text](https://github.com/lucrogers/P3-OC-Conception-application-sante-publique/blob/main/exemple.png)
 
 ## Compétences évaluées
 - Effectuer une analyse statistique multivariée
