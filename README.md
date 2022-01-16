@@ -10,7 +10,7 @@ Le but de ce proposer est de trouver une idée d'application en lien avec la nut
 
 Ce jeu de données étant participatif et collaboratif il comporte beaucoup d'erreurs et appelle à un nettoyage efficace et vigilant.
 
-Notre idée d'application se base sur le régime cétogène qui nécessite de limiter au maximum les aliments riches en glucides. Ainsi l'application proposera pour un produit scanné une alternative moins riche en glucides et appartenant au même cluster de produits.
+Notre idée d'application s'inspire du régime cétogène qui nécessite de limiter au maximum les aliments riches en glucides. Ainsi l'application proposera pour un produit scanné une alternative moins riche en glucides et appartenant au même cluster de produits.
 
 ## Travail réalisé
 - Automatisation du traitement du jeu de données: suppression des erreurs aberrantes, gestion des valeurs manquantes
